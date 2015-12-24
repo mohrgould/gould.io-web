@@ -16,6 +16,10 @@ nav {
   color: #999;
 }
 
+nav a {
+  color: #444;
+}
+
 
 h4 {
   margin: 0.25em 0.7em;
@@ -56,6 +60,7 @@ figure img {
 figure figurecaption {
   float: left;
   clear: left;
+  padding-bottom: 5em;
 }
 
 figure figurecaption span {
@@ -66,6 +71,7 @@ figure figurecaption span {
 
 h3 {
   font-family: sans-serif;
+  margin-bottom: 0.3em;
 }
 
 span.disabled {

@@ -1,0 +1,36 @@
+{
+  "tracking": {
+    "googleAnalyticsTrackingId": "UA-00029000-1"
+  },
+
+  "galleries": {
+
+    "hidden": {
+      "title": "Unpublished",
+      "publish": false,
+      "images": [
+        {
+          "ignore": true,
+          "filename": "blood-moon.jpg",
+          "title": "Blood Moon"
+        }, {
+          "ignore": true,
+          "filename": "sleeping-cat.jpg",
+          "title": "Sleeping Cat"
+        }
+      ]
+    },
+
+    "photos": {
+      "title": "Photos",
+      "publish": true,
+      "images": [
+        {
+          "filename": "berkeley-pier-golden-gate-sunset.jpg",
+          "title": "Berkeley Pier and Golden Gate at Sunset"
+        }
+      ]
+    }
+
+  }
+}

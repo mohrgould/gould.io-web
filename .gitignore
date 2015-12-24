@@ -1,0 +1,5 @@
+*.log
+.*.sw?
+public
+node_modules
+resources

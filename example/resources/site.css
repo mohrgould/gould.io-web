@@ -1,0 +1,77 @@
+body {
+  font-family: sans-serif;
+  color: #444;
+}
+
+h2 {
+  margin: 0.6em 0.4em 0;
+}
+
+nav {
+  position: absolute;
+  font-size: 1.3em;
+  font-family: serif;
+  font-style: italic;
+  top: 0.9em; left: 20em;
+  color: #999;
+}
+
+
+h4 {
+  margin: 0.25em 0.7em;
+  font-weight: normal;
+  font-family: serif;
+  font-style: italic;
+  color: #666;
+}
+
+a {
+  color: #777;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #777;
+}
+
+footer {
+  text-align: left;
+  margin: 0 0.7em;
+  font-family: serif;
+  font-style: italic;
+}
+
+span img {
+  margin: 0.7em;
+}
+
+figure {
+  display: block;
+}
+
+figure img {
+  float: left;
+}
+
+figure figurecaption {
+  float: left;
+  clear: left;
+}
+
+figure figurecaption span {
+  font-family: serif;
+  font-style: italic;
+  color: #666;
+}
+
+h3 {
+  font-family: sans-serif;
+}
+
+span.disabled {
+  color: #ccc;
+}
+
+div {
+  margin: 0.7em;
+}
